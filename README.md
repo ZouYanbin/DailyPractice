@@ -1,2 +1,2 @@
-# DailyPractice
-DailyPracticeForWork
+# Practice
+PracticeForWork
